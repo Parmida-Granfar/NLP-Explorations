@@ -1,4 +1,4 @@
-# 🚀 NLP & Machine Learning Portfolio  
+# 🚀 NLP  Portfolio  
 **Hi there! I'm Parmida Geranfar - Passionate NLP Engineer & Researcher**  
 *Building intelligent systems at the edge of language technology*
 
@@ -38,17 +38,6 @@ I'm an NLP enthusiast currently exploring how to make large language models **sm
 **Core Skills**  
 NLP ██████████ 90%    LLM Optimization ████████ 80%
 PyTorch ██████████ 95%    Transformers █████████ 85%
-
-
-## 🛠️ Languages & Frameworks  
-**Core Tools I Use Daily**  
-
-![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?logo=pytorch&logoColor=white)
-![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21F?logo=huggingface&logoColor=black)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?logo=fastapi&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)
 
 🌟 Current Focus
 Implementing mixture-of-experts architectures
