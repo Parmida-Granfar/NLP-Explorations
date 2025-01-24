@@ -1,10 +1,14 @@
 # 🚀 NLP & Machine Learning Portfolio  
-**Hi there! I'm [Your Name] - Passionate NLP Engineer & Researcher**  
+**Hi there! I'm Parmida Geranfar - Passionate NLP Engineer & Researcher**  
 *Building intelligent systems at the edge of language technology*
 
-[![GitHub Stars](https://img.shields.io/github/stars/yourname/yourrepo?style=social)](https://github.com/yourname) 
 [![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?logo=pytorch)](https://pytorch.org/)
 [![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21F?logo=huggingface)](https://huggingface.co/yourprofile)
+![LangChain](https://img.shields.io/badge/LangChain-FFD21F?logo=langchain&logoColor=black)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?logo=fastapi&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white) 
+
 
 ---
 
