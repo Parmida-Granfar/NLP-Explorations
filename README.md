@@ -17,7 +17,7 @@ I'm an NLP enthusiast currently exploring how to make large language models **sm
 
 *"Currently completing my portfolio while building exciting projects at the intersection of NLP and edge computing!"*
 
----
+
 
 ## 🔥 Featured Projects
 
