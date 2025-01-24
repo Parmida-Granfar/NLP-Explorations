@@ -72,7 +72,7 @@ Exploring neural compression for LLMs
 
 ---
 
-### How It Looks Rendered  
+
 ## 🌟 Current Focus  
 **What I'm Building & Exploring Right Now**  
 
