@@ -32,7 +32,6 @@ I'm an NLP enthusiast currently exploring how to make large language models **sm
 
 ## 🛠️ Technical Arsenal  
 **Core Skills**  
-```text
 NLP ██████████ 90%    LLM Optimization ████████ 80%
 PyTorch ██████████ 95%    Transformers █████████ 85%
 
